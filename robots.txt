@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /hardware_14/
+Sitemap: http://www.1-computer-hardware.com/sitemap.xml 
